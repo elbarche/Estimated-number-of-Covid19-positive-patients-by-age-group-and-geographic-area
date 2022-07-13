@@ -1,4 +1,4 @@
-# Exercice-d-valuation-pour-le-poste-Inria-
-Exercice d'évaluation pour le poste Inria / AP-HP
+
+Estimated-number-of-Covid19-positive-patients-by-age-group-and-geographic-area
 
 Les librairies à installer : Numpy et Pandas
